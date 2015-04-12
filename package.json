@@ -1,0 +1,28 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "making a node app again",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahammo2/node-practice.git"
+  },
+  "author": "jahammo2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahammo2/node-practice/issues"
+  },
+  "homepage": "https://github.com/jahammo2/node-practice",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.2",
+    "mysql": "^2.5.4",
+    "redis": "^0.12.1",
+    "request": "^2.55.0",
+    "url": "^0.10.3"
+  },
+  "devDependencies": {}
+}
